@@ -1,7 +1,7 @@
 {
   "name": "todoapp",
   "private": true,
-  "homepage": "https://adelian.github.io/to-do-app-react",
+  "homepage": "https://adelian.github.io/to-do-app",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
